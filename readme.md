@@ -39,7 +39,7 @@ export PING_LISTEN_PORT=9000 && cargo run // Le port peut-être choisi au lancem
 curl http://127.0.0.1:9000/ping
 ```
 
-- Depuis un Navigateur Web via le lien suivant en local:
+- \*Depuis un Navigateur Web via le lien suivant en local :
 
 ```txt
 http://127.0.0.1:9000/ping
