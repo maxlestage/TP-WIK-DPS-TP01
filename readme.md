@@ -45,7 +45,7 @@ curl http://127.0.0.1:9000/ping
 http://127.0.0.1:9000/ping
 ```
 
-`Retourne à l'utilisateur l'affichage du header sous la forme d'un JSON dans le body`
+\*Retourne à l'utilisateur l'affichage du header sous la forme d'un JSON dans le body
 
 Si l'utilisateur essaie de visiter tout autres routes que `/ping`, le serveur renverra une erreur une 404, celle-ci est visible dans la console du navigateur dans l'onglet Network ou Réseau.
 
