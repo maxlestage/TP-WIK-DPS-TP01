@@ -9,15 +9,11 @@
 - Réponse vide avec code 404 si quoi que ça soit d'autre que GET /ping ou code 500 si erreur inconnue.
 - Réalisation d'un README avec documentation sur le lancement du projet.
 
----
-
 ## Choix des Technos :
 
 - Rust : `Comme language de programmation.`
 - Actix : `Web framework pour Rust.`
 - Serde : `Outil de sérialization JSON.`
-
----
 
 ## Lancer le projet :
 
