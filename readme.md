@@ -11,7 +11,7 @@
 
 ## Choix des Technos :
 
-- Rust : `Comme language de programmation.`
+- Rust : `Comme langage de programmation.`
 - Actix : `Web framework pour Rust.`
 - Serde : `Outil de sérialization JSON.`
 
